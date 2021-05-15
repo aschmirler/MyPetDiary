@@ -1,6 +1,6 @@
 # MyPetDiary Documentation
 
-1. Main Activity - HomePage
+**Main Activity - HomePage**
 - Home page of the app
 - opens up to 4 new activities: NewPetActivity, MyPetsActivity, TrainingMainActivity, DogTippsActivity
 
